@@ -13,4 +13,7 @@ T is prefilter for reducing [[steady state error]] P(1)/B(1)
 
 It is mentioned RST calculation: [[Diophantine Equation]] 
 
-A and B are plant polynomials in equations so constants P is desired result of an equation (polynomial as well) R and S can be tuned 
+A and B are plant polynomials in equations so constants P is desired result of an equation (polynomial as well) R and S can be tuned. As I understand R and S can be any polynomials so to solve such equation we have to define amount of variables in each polynomial (should be based on a properties of TF polynomials).  Maybe like this deg(R) = deg(B) - 1; deg(S) = deg(A) -1. And Here we are comming to the ide of:
+
+![[Pasted image 20250606112902.png]]
+p =x*M*  now we heave to define [[matrix]] M.  size(M) = (nA + nB +1) X (nA +nB+1)

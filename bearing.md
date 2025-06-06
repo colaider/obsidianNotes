@@ -1,0 +1,1 @@
+A part which reduces [[friction]]

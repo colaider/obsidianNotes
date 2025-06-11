@@ -1,0 +1,1 @@
+Collecting data from professionals across the world. Ask you to provide your portfolio which is good [[data set]] for them. A lot of people on reddit telling that they are [scammer]]s. 

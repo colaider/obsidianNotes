@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "e0c44f91f3fd15d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "290b899614fa10fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d66f73453094e4c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RST Controller.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RST Controller"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ffcc23504c4e23bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f8105155eecae23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3635920f16bb31e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c59c7be43b7f3711",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1e0d9ba32b41f2fb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "df72e962aabb513d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc3a379a2da83cca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "833049368815da1e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RST Controller.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for RST Controller"
+            }
+          },
+          {
+            "id": "9b153377ab889128",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RST Controller.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from RST Controller"
+            }
+          },
+          {
+            "id": "b16502d0804a7bc2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d87421b8f7afa463",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RST Controller.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of RST Controller"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d66f73453094e4c5",
+  "lastOpenFiles": [
+    "Engineering/energy.md",
+    "two degree of freedom controllers.md",
+    "crowbar.md",
+    "backwards shift operator.md",
+    "RST Controller.md",
+    "Pasted image 20250606111741.png",
+    "Pasted image 20250606101417.png",
+    "Pasted image 20250604140250.png",
+    "DCDC Converter simulation.md",
+    "id_ed25519.pub.pub",
+    "id_ed25519.pub",
+    "obsidianNotes",
+    "Engineering/Flange Bearing.md",
+    "Знімок екрана 2025-06-01 о 21.48.19.png",
+    "bearing.md",
+    "Engineering/retaining ring.md",
+    "Знімок екрана 2025-05-29 о 21.37.59.png",
+    "leaks.md",
+    "Engineering/sealing ring.md",
+    "Untitled/Outlier AI.md",
+    "Engineering/charge.md",
+    "Engineering/Programing/Swift.md",
+    "palladium.md",
+    "франція.md",
+    "Engineering/Programing"
+  ]
+}
